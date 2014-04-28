@@ -1,0 +1,14 @@
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\obj\x86\Debug\Springing_Background.csprojResolveAssemblyReference.cache
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Springing_Background.exe
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Springing_Background.pdb
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\obj\x86\Debug\Springing_Background.exe
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\obj\x86\Debug\Springing_Background.pdb
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Black Hole.xnb
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Bullet.xnb
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Glow.xnb
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Laser.xnb
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Pointer.xnb
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Seeker.xnb
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Wanderer.xnb
+C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Player.xnb

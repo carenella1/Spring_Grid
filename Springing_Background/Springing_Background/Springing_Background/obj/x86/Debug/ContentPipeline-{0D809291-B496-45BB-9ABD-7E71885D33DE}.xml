@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Art\Black Hole.png</Source>
+      <Name>Art\Black Hole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Black Hole.xnb</Output>
+      <Time>2014-04-26T15:04:30.5810546-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\Bullet.png</Source>
+      <Name>Art\Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Bullet.xnb</Output>
+      <Time>2014-04-26T15:04:30.5839843-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\Glow.png</Source>
+      <Name>Art\Glow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Glow.xnb</Output>
+      <Time>2014-04-26T15:04:30.5849609-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\Laser.png</Source>
+      <Name>Art\Laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Laser.xnb</Output>
+      <Time>2014-04-26T15:04:30.5859375-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\Pointer.png</Source>
+      <Name>Art\Pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Pointer.xnb</Output>
+      <Time>2014-04-26T15:04:30.578125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\Seeker.png</Source>
+      <Name>Art\Seeker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Seeker.xnb</Output>
+      <Time>2014-04-26T15:04:30.5791015-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\Wanderer.png</Source>
+      <Name>Art\Wanderer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Wanderer.xnb</Output>
+      <Time>2014-04-26T15:04:30.5800781-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\Player.png</Source>
+      <Name>Art\Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\Art\Player.xnb</Output>
+      <Time>2013-07-26T17:29:36-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0D809291-B496-45BB-9ABD-7E71885D33DE}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_BackgroundContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Chase\Documents\Visual Studio 2013\Projects\Springing_Background\Springing_Background\Springing_Background\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-20T08:25:45.703125-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
